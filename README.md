@@ -1,4 +1,4 @@
-# Power-BI
+# Sales Insights Data Analysis Project using Power-BI
 In this project, I worked on a real-time business case where a company's sales performance was declining. I obtained the raw sales dataset and performed the following steps:
 
 Clean → Transform → Model → Visualize → Insight.
